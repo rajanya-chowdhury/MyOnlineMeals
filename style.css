@@ -252,6 +252,9 @@ html{
     position: sticky;
     top: 0px;
 }
+header{
+    position: fixed;
+}
 
 #navbar::before{
     content: "";
